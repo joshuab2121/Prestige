@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prestige Masonry and Pools</string>
+    <string name="company_name">Prestige Masonry and Pools</string>
+    <string name="phone">Ph. 949.429.5553</string>
+    <string name="email">info@prestigemasonryandpools.com</string>
+    <string name="license">Lic.# 768162</string>
+    <string name="services"><![CDATA[Pools and Spas\nReplastering\nConcrete\nPavers\nBlock Walls\nFireplaces & Firepits\nAnd more…]]></string>
+
+</resources>
